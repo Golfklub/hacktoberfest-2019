@@ -334,3 +334,9 @@
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
 
+#### Name: [Juta Jumpaong](https://github.com/Golfklub)
+- Place: Chiang Mai, Thailand
+- Bio: Developer?
+- GitHub: [GolfKlub](https://github.com/Golfklub)
+
+
